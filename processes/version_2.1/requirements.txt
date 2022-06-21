@@ -14,7 +14,7 @@ lxml==4.1.1
 MarkupSafe==1.0
 monotonic==1.4
 nltk==3.2.5
-numpy==1.13.3
+numpy==1.22.0
 pika==0.11.2
 pymongo==3.5.1
 python-crontab==2.2.8
